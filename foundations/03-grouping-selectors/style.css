@@ -1,0 +1,20 @@
+.white.blackB{
+    color: white;
+    font-size: 28px;
+    font-family: Helvetica,"Times New Roman",sans-serif;
+    background-color: black;
+    border: 3px solid white;
+
+}
+body{
+    background-color: rgb(158, 143, 143);
+    gap: 3px;
+}
+
+.balck.yallowB{
+    font-family:  Helvetica,"Times New Roman", sans-serif;
+    font-size: 28px;
+    background-color: yellow;
+    border: 3px solid rgb(180, 167, 167);
+
+}

@@ -1,0 +1,18 @@
+p{
+    background-color: rgba(230, 129, 129, 0.918);
+}
+
+p.big{
+    font-size: medium;
+}
+
+.large.blue{
+    font-size: 50px;
+    color: blue;
+}
+
+.bold.big{
+    font-weight: bold;
+    font-size: 40px;
+    background-color: greenyellow;
+}
